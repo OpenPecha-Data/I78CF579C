@@ -1,0 +1,16 @@
+id: I78CF579C
+default_language: ug
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:14:38.132027
+last_modified: 2023-02-08 16:14:38.132109
+source_metadata:
+  title: TYKYN
+  language: ug
+bases:
+  40ED:
+    base_file: 40ED.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
